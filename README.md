@@ -1,26 +1,30 @@
-<h1 align="center">Hi 👋, I'm Fabrizio</h1>
-<h3 align="center">Game Developer | Unity 3D | Unreal Engine 5</h3>
+# 🐱‍💻 About Me:
+🐱‍👓 Currently working on: "Analog Horror Metro Game" (Provisional name) -> https://github.com/Piermaa/SUBTEJUEGO<br>🐱‍🐉 I’m currently learning C++ programming in UE5
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piermaa" alt="piermaa" /></a> </p>
 
-- 🔭 I’m currently working on ["Analog Horror Traing Game" (provisionalname))](https://github.com/Piermaa/SUBTEJUEGO)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/FabrizioPiermarocchi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@FabrizioPiermarocchi) 
 
-- 🎓 Currently learning **C++ programming in UE5**
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-- Portfolio-> [https://fabriziopiermarocchi.wixsite.com/fabrizio-piermarocch](https://fabriziopiermarocchi.wixsite.com/fabrizio-piermarocch)
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"</a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-- Contact: **fabrizio.pier.dv@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fabrizio piermarocchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabrizio piermarocchi" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Piermaa&theme=algolia&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Piermaa&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Piermaa&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piermaa&show_icons=true&locale=en&layout=compact" alt="piermaa" /></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Piermaa&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piermaa&show_icons=true&locale=en" alt="piermaa" /></p>
+## Motivator:
+![Imagen de WhatsApp 2024-02-20 a las 15 27 14_895d9ca0](https://github.com/Piermaa/Piermaa/assets/87669776/9b27a7d3-e7f9-448e-b918-86593aa0592d)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piermaa&" alt="piermaa" /></p>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Piermaa&icon=1&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
